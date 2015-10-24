@@ -1,0 +1,7 @@
+vendor
+temp
+nbproject
+log
+bin
+composer.json
+composer.lock
