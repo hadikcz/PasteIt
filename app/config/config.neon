@@ -21,5 +21,7 @@ session:
 
 services:
 	- App\Model\UserManager
+	- App\Model\PasteManager
 	- App\Forms\SignFormFactory
+	- Nette\Utils\DateTime
 	router: App\RouterFactory::createRouter

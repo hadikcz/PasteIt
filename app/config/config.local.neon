@@ -2,7 +2,7 @@ parameters:
 
 
 database:
-	dsn: 'mysql:host=127.0.0.1;dbname=test'
+	dsn: 'sqlite:../db.sqlite'
 	user:
 	password:
 	options:
